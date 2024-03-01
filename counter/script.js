@@ -8,6 +8,7 @@ let newVal
 let color1
 let isPrime= true
 function isPrimeNumber(){
+    isPrime = true;
     for(let j=2; j<=number/2; j++){
         if(number%j===0){
             isPrime= false;
