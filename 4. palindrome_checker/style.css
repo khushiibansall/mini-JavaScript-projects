@@ -1,0 +1,21 @@
+div{
+    height: 100px;
+    width: 700px;
+    
+}
+body{
+    background-color: rgb(173, 201, 252);
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2vw;
+}
+input{
+    height: 40px;
+    width: 300px;
+    margin-bottom: 10px;
+    border: none;
+}
