@@ -56,3 +56,36 @@ body{
     border: none;
     border-radius: 0.5em;
 }
+.female {
+  background-color: #ff5f96;
+}
+.male {
+  background-color: #5a72e9;
+}
+#info {
+  padding: 2em 1em;
+  text-align: center;
+  border-radius: 0.9em;
+}
+#result-name {
+  text-transform: capitalize;
+  font-weight: 500;
+  color: #edecec;
+}
+#gender-icon {
+  display: block;
+  width: 5em;
+  position: relative;
+  margin: 2em auto 1em auto;
+}
+#gender {
+  color: #ffffff;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
+#prob {
+  letter-spacing: 0.2em;
+  font-weight: 500;
+  color: #edecec;
+}
